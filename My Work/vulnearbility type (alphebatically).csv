@@ -1,0 +1,982 @@
+,Basic Problem Solving,Hazard,Dexterity,Type of Vulnerability,,,,,,,,,
+,,,,,,,,,,,,,
+Job,,,,,,,Type 1,Type 2,Type 3,Type 4,Type 5,Type 6,Type 7
+,,,,,,,,,,,,,
+Accountants,-,-,-,`,,,0,0,0,0,0,0,0
+Actuaries,-,-,-,`,,,0,0,0,0,0,0,0
+Acupuncturists,-,-,-,`,,,0,0,0,0,0,0,0
+Acute Care Nurses,-,-,-,`,,,0,0,0,0,0,0,0
+Adapted Physical Education Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Adhesive Bonding Machine Operators and Tenders,-,1.19,-,2,,,0,2,0,0,0,0,0
+"Administrative Law Judges, Adjudicators, and Hearing Officers",-,-,-,`,,,0,0,0,0,0,0,0
+Administrative Services Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Adult Basic and Secondary Education and Literacy Teachers and Instructors,-,-,-,`,,,0,0,0,0,0,0,0
+Advanced Practice Psychiatric Nurses,-,-,-,`,,,0,0,0,0,0,0,0
+Advertising and Promotions Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Advertising Sales Agents,-1.14,-,-,1,,,1,0,0,0,0,0,0
+Aerospace Engineering and Operations Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Aerospace Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+"Agents and Business Managers of Artists, Performers, and Athletes",-,-,-,`,,,0,0,0,0,0,0,0
+Agricultural Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Agricultural Equipment Operators,-,1.41,-,2,,,0,2,0,0,0,0,0
+Agricultural Inspectors,-,-,-,`,,,0,0,0,0,0,0,0
+"Agricultural Sciences Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Agricultural Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Air Traffic Controllers,-,-,1.03,3,,,0,0,3,0,0,0,0
+Aircraft Cargo Handling Supervisors,-,1.06,-,2,,,0,2,0,0,0,0,0
+Aircraft Mechanics and Service Technicians,-,1.74,1.20,2-3,,,0,0,0,0,0,6,0
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",-,1.12,-,2,,,0,2,0,0,0,0,0
+Airfield Operations Specialists,-,1.03,-,2,,,0,2,0,0,0,0,0
+"Airline Pilots, Copilots, and Flight Engineers",-,1.91,-,2,,,0,2,0,0,0,0,0
+Allergists and Immunologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",-,-,-,`,,,0,0,0,0,0,0,0
+Amusement and Recreation Attendants,-2.43,-,-,1,,,1,0,0,0,0,0,0
+Anesthesiologist Assistants,-,-,0.76,3,,,0,0,3,0,0,0,0
+Anesthesiologists,-,-,1.13,3,,,0,0,3,0,0,0,0
+Animal Breeders,-,-,-,`,,,0,0,0,0,0,0,0
+Animal Control Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Animal Scientists,-,-,-,`,,,0,0,0,0,0,0,0
+Animal Trainers,-,-,-,`,,,0,0,0,0,0,0,0
+Anthropologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Anthropology and Archeology Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+"Appraisers, Real Estate",-,-,-,`,,,0,0,0,0,0,0,0
+Aquacultural Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Arbitrators, Mediators, and Conciliators",-,-,-,`,,,0,0,0,0,0,0,0
+Archeologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Architects, Except Landscape and Naval",-,-,0.75,3,,,0,0,3,0,0,0,0
+Architectural and Engineering Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Architectural Drafters,-,-,-,`,,,0,0,0,0,0,0,0
+"Architecture Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Archivists,-,-,-,`,,,0,0,0,0,0,0,0
+"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Art Directors,-,-,1.55,3,,,0,0,3,0,0,0,0
+Art Therapists,-,-,1.02,3,,,0,0,3,0,0,0,0
+"Art, Drama, and Music Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Assessors,-,-,-,`,,,0,0,0,0,0,0,0
+Astronomers,-,-,-,`,,,0,0,0,0,0,0,0
+Athletes and Sports Competitors,-,-,-,`,,,0,0,0,0,0,0,0
+Athletic Trainers,-,-,-,`,,,0,0,0,0,0,0,0
+Atmospheric and Space Scientists,-,-,-,`,,,0,0,0,0,0,0,0
+"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Audio and Video Equipment Technicians,-,-,0.80,3,,,0,0,3,0,0,0,0
+Audiologists,-,-,1.38,3,,,0,0,3,0,0,0,0
+Audio-Visual and Multimedia Collections Specialists,-,-,0.83,3,,,0,0,3,0,0,0,0
+Auditors,-,-,-,`,,,0,0,0,0,0,0,0
+Automotive and Watercraft Service Attendants,-,1.44,-,2,,,0,2,0,0,0,0,0
+Automotive Body and Related Repairers,-,1.05,-,2,,,0,2,0,0,0,0,0
+Automotive Engineering Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Automotive Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Automotive Glass Installers and Repairers,-1.41,-,-,1,,,1,0,0,0,0,0,0
+Automotive Master Mechanics,-,1.78,1.10,2-3,,,0,0,0,0,0,6,0
+Automotive Specialty Technicians,-,1.95,-,2,,,0,2,0,0,0,0,0
+Aviation Inspectors,-,-,-,`,,,0,0,0,0,0,0,0
+Avionics Technicians,-,-,1.15,3,,,0,0,3,0,0,0,0
+Baggage Porters and Bellhops,-1.30,-,-,1,,,1,0,0,0,0,0,0
+Bailiffs,-1.60,-,-,1,,,1,0,0,0,0,0,0
+Bakers,-1.43,-,-,1,,,1,0,0,0,0,0,0
+Barbers,-1.38,-,1.55,1-3,,,0,0,0,0,5,0,0
+Baristas,-2.06,-,1.15,1-3,,,0,0,0,0,5,0,0
+Bartenders,-1.27,-,1.53,1-3,,,0,0,0,0,5,0,0
+Bicycle Repairers,-,-,1.89,3,,,0,0,3,0,0,0,0
+Bill and Account Collectors,-0.88,-,-,1,,,1,0,0,0,0,0,0
+"Billing, Cost, and Rate Clerks",-1.05,-,-,1,,,1,0,0,0,0,0,0
+Biochemical Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Biochemists and Biophysicists,-,-,-,`,,,0,0,0,0,0,0,0
+Biofuels Processing Technicians,-,1.29,-,2,,,0,2,0,0,0,0,0
+Biofuels Production Managers,-,1.04,-,2,,,0,2,0,0,0,0,0
+Biofuels/Biodiesel Technology and Product Development Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Bioinformatics Scientists,-,-,-,`,,,0,0,0,0,0,0,0
+Bioinformatics Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+"Biological Science Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Biological Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Biologists,-,-,-,`,,,0,0,0,0,0,0,0
+Biomass Plant Technicians,-,1.48,-,2,,,0,2,0,0,0,0,0
+Biomass Power Plant Managers,-,1.33,-,2,,,0,2,0,0,0,0,0
+Biomedical Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Biostatisticians,-,-,-,`,,,0,0,0,0,0,0,0
+Boilermakers,-,1.97,-,2,,,0,2,0,0,0,0,0
+"Bookkeeping, Accounting, and Auditing Clerks",-,-,-,`,,,0,0,0,0,0,0,0
+Brickmasons and Blockmasons,-,1.53,-,2,,,0,2,0,0,0,0,0
+Bridge and Lock Tenders,-,-,-,`,,,0,0,0,0,0,0,0
+Broadcast News Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Broadcast Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Brokerage Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+Brownfield Redevelopment Specialists and Site Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Budget Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Bus and Truck Mechanics and Diesel Engine Specialists,-,1.70,-,2,,,0,2,0,0,0,0,0
+"Bus Drivers, School or Special Client",-,-,-,`,,,0,0,0,0,0,0,0
+"Bus Drivers, Transit and Intercity",-1.18,-,-,1,,,1,0,0,0,0,0,0
+Business Continuity Planners,-,-,-,`,,,0,0,0,0,0,0,0
+Business Intelligence Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+"Business Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Butchers and Meat Cutters,-1.51,-,-,1,,,1,0,0,0,0,0,0
+"Buyers and Purchasing Agents, Farm Products",-,-,-,`,,,0,0,0,0,0,0,0
+Cabinetmakers and Bench Carpenters,-,1.12,1.22,2-3,,,0,0,0,0,0,6,0
+Camera and Photographic Equipment Repairers,-,-,0.84,3,,,0,0,3,0,0,0,0
+"Camera Operators, Television, Video, and Motion Picture",-,-,1.07,3,,,0,0,3,0,0,0,0
+Cardiovascular Technologists and Technicians,-,-,1.66,3,,,0,0,3,0,0,0,0
+"Career/Technical Education Teachers, Middle School",-,-,-,`,,,0,0,0,0,0,0,0
+"Career/Technical Education Teachers, Secondary School",-,-,-,`,,,0,0,0,0,0,0,0
+Cargo and Freight Agents,-,-,-,`,,,0,0,0,0,0,0,0
+Carpet Installers,-0.88,-,-,1,,,1,0,0,0,0,0,0
+Cartographers and Photogrammetrists,-,-,0.85,3,,,0,0,3,0,0,0,0
+Cashiers,-1.72,-,-,1,,,1,0,0,0,0,0,0
+Cement Masons and Concrete Finishers,-1.17,1.60,-,1-4,,,0,0,0,4,0,0,0
+Chefs and Head Cooks,-,-,-,`,,,0,0,0,0,0,0,0
+Chemical Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Chemical Equipment Operators and Tenders,-,1.43,-,2,,,0,2,0,0,0,0,0
+Chemical Plant and System Operators,-,1.26,-,2,,,0,2,0,0,0,0,0
+Chemical Technicians,-,-,1.47,3,,,0,0,3,0,0,0,0
+"Chemistry Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Chemists,-,-,1.02,3,,,0,0,3,0,0,0,0
+Chief Executives,-,-,-,`,,,0,0,0,0,0,0,0
+Chief Sustainability Officers,-,-,-,`,,,0,0,0,0,0,0,0
+"Child, Family, and School Social Workers",-,-,-,`,,,0,0,0,0,0,0,0
+Childcare Workers,-0.92,-,-,1,,,1,0,0,0,0,0,0
+Chiropractors,-,-,0.92,3,,,0,0,3,0,0,0,0
+Choreographers,-0.98,-,-,1,,,1,0,0,0,0,0,0
+City and Regional Planning Aides,-,-,-,`,,,0,0,0,0,0,0,0
+Civil Drafters,-,-,-,`,,,0,0,0,0,0,0,0
+Civil Engineering Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Civil Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+"Claims Examiners, Property and Casualty Insurance",-,-,0.82,3,,,0,0,3,0,0,0,0
+Cleaners of Vehicles and Equipment,-2.17,-,-,1,,,1,0,0,0,0,0,0
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",-1.24,-,-,1,,,1,0,0,0,0,0,0
+Clergy,-,-,-,`,,,0,0,0,0,0,0,0
+Climate Change Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Clinical Data Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Clinical Nurse Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Clinical Psychologists,-,-,-,`,,,0,0,0,0,0,0,0
+Clinical Research Coordinators,-,-,-,`,,,0,0,0,0,0,0,0
+Coaches and Scouts,-,-,-,`,,,0,0,0,0,0,0,0
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",-,-,-,`,,,0,0,0,0,0,0,0
+"Coil Winders, Tapers, and Finishers",-1.11,-,-,1,,,1,0,0,0,0,0,0
+"Coin, Vending, and Amusement Machine Servicers and Repairers",-,-,0.77,3,,,0,0,3,0,0,0,0
+"Combined Food Preparation and Serving Workers, Including Fast Food",-2.12,-,-,1,,,1,0,0,0,0,0,0
+Commercial and Industrial Designers,-,-,-,`,,,0,0,0,0,0,0,0
+Commercial Divers,-,1.35,0.97,2-3,,,0,0,0,0,0,6,0
+Commercial Pilots,-,1.31,-,2,,,0,2,0,0,0,0,0
+"Communications Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Community Health Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Compensation and Benefits Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Compensation, Benefits, and Job Analysis Specialists",-,-,-,`,,,0,0,0,0,0,0,0
+Compliance Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Computer and Information Research Scientists,-,-,1.09,3,,,0,0,3,0,0,0,0
+Computer and Information Systems Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Computer Hardware Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Computer Network Architects,-,-,-,`,,,0,0,0,0,0,0,0
+Computer Network Support Specialists,-,-,0.99,3,,,0,0,3,0,0,0,0
+"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",-,-,-,`,,,0,0,0,0,0,0,0
+Computer Operators,-,-,-,`,,,0,0,0,0,0,0,0
+Computer Programmers,-,-,-,`,,,0,0,0,0,0,0,0
+"Computer Science Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Computer Systems Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Computer Systems Engineers/Architects,-,-,-,`,,,0,0,0,0,0,0,0
+Computer User Support Specialists,-,-,1.16,3,,,0,0,3,0,0,0,0
+"Computer, Automated Teller, and Office Machine Repairers",-,-,1.03,3,,,0,0,3,0,0,0,0
+"Computer-Controlled Machine Tool Operators, Metal and Plastic",-,1.11,-,2,,,0,2,0,0,0,0,0
+Concierges,-1.05,-,-,1,,,1,0,0,0,0,0,0
+Construction and Building Inspectors,-,-,-,`,,,0,0,0,0,0,0,0
+Construction Carpenters,-,1.42,-,2,,,0,2,0,0,0,0,0
+Construction Laborers,-1.10,1.43,-,1-2,,,0,0,0,4,0,0,0
+Construction Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Continuous Mining Machine Operators,-,1.86,-,2,,,0,2,0,0,0,0,0
+"Control and Valve Installers and Repairers, Except Mechanical Door",-,1.33,-,2,,,0,2,0,0,0,0,0
+Conveyor Operators and Tenders,-0.93,-,-,1,,,1,0,0,0,0,0,0
+"Cooks, Fast Food",-2.16,-,-,1,,,1,0,0,0,0,0,0
+"Cooks, Institution and Cafeteria",-1.14,-,0.88,1-3,,,0,0,0,0,5,0,0
+"Cooks, Private Household",-,-,1.05,3,,,0,0,3,0,0,0,0
+"Cooks, Restaurant",-1.71,-,-,1,,,1,0,0,0,0,0,0
+"Cooks, Short Order",-1.34,-,-,1,,,1,0,0,0,0,0,0
+Cooling and Freezing Equipment Operators and Tenders,-,1.33,-,2,,,0,2,0,0,0,0,0
+Copy Writers,-,-,-,`,,,0,0,0,0,0,0,0
+Coroners,-,1.19,-,2,,,0,2,0,0,0,0,0
+Correctional Officers and Jailers,-,-,-,`,,,0,0,0,0,0,0,0
+Correspondence Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+Cost Estimators,-,-,-,`,,,0,0,0,0,0,0,0
+Costume Attendants,-1.68,-,0.78,1-3,,,0,0,0,0,5,0,0
+Counseling Psychologists,-,-,-,`,,,0,0,0,0,0,0,0
+Counter and Rental Clerks,-1.72,-,-,1,,,1,0,0,0,0,0,0
+"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",-1.71,-,-,1,,,1,0,0,0,0,0,0
+Couriers and Messengers,-0.90,-,0.75,1-3,,,0,0,0,0,5,0,0
+Court Clerks,-0.92,-,-,1,,,1,0,0,0,0,0,0
+Court Reporters,-1.31,-,0.87,1-3,,,0,0,0,0,5,0,0
+Craft Artists,-,-,1.66,3,,,0,0,3,0,0,0,0
+Crane and Tower Operators,-,1.51,-,2,,,0,2,0,0,0,0,0
+Credit Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Credit Authorizers,-,-,-,`,,,0,0,0,0,0,0,0
+Credit Checkers,-1.05,-,-,1,,,1,0,0,0,0,0,0
+Credit Counselors,-,-,-,`,,,0,0,0,0,0,0,0
+Criminal Investigators and Special Agents,-,-,-,`,,,0,0,0,0,0,0,0
+"Criminal Justice and Law Enforcement Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Critical Care Nurses,-,-,1.41,3,,,0,0,3,0,0,0,0
+Crossing Guards,-1.73,-,-,1,,,1,0,0,0,0,0,0
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",-,1.31,-,2,,,0,2,0,0,0,0,0
+Curators,-,-,-,`,,,0,0,0,0,0,0,0
+Customer Service Representatives,-1.04,-,0.98,1-3,,,0,0,0,0,5,0,0
+Customs Brokers,-,-,-,`,,,0,0,0,0,0,0,0
+"Cutters and Trimmers, Hand",-1.07,-,-,1,,,1,0,0,0,0,0,0
+"Cutting and Slicing Machine Setters, Operators, and Tenders",-0.85,1.01,-,1-2,,,0,0,0,4,0,0,0
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",-,1.20,-,2,,,0,2,0,0,0,0,0
+Cytogenetic Technologists,-,-,1.27,3,,,0,0,3,0,0,0,0
+Cytotechnologists,-,-,1.85,3,,,0,0,3,0,0,0,0
+Dancers,-1.93,-,-,1,,,1,0,0,0,0,0,0
+Data Entry Keyers,-,-,1.56,3,,,0,0,3,0,0,0,0
+Data Warehousing Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Database Administrators,-,-,-,`,,,0,0,0,0,0,0,0
+Database Architects,-,-,-,`,,,0,0,0,0,0,0,0
+Demonstrators and Product Promoters,-1.43,-,-,1,,,1,0,0,0,0,0,0
+Dental Assistants,-,-,1.47,3,,,0,0,3,0,0,0,0
+Dental Hygienists,-,-,1.51,3,,,0,0,3,0,0,0,0
+Dental Laboratory Technicians,-,1.15,-,2,,,0,2,0,0,0,0,0
+"Dentists, General",-,1.05,3.24,2-3,,,0,0,0,0,0,6,0
+Dermatologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Derrick Operators, Oil and Gas",-,2.10,-,2,,,0,2,0,0,0,0,0
+Desktop Publishers,-,-,1.86,3,,,0,0,3,0,0,0,0
+Diagnostic Medical Sonographers,-,-,1.47,3,,,0,0,3,0,0,0,0
+Dietetic Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Dietitians and Nutritionists,-,-,-,`,,,0,0,0,0,0,0,0
+Dining Room and Cafeteria Attendants and Bartender Helpers,-2.56,-,-,1,,,1,0,0,0,0,0,0
+"Directors- Stage, Motion Pictures, Television, and Radio",-,-,-,`,,,0,0,0,0,0,0,0
+"Directors, Religious Activities and Education",-,-,-,`,,,0,0,0,0,0,0,0
+Dishwashers,-2.32,-,0.78,2-3,,,0,0,0,0,5,0,0
+"Dispatchers, Except Police, Fire, and Ambulance",-0.85,-,-,1,,,1,0,0,0,0,0,0
+Distance Learning Coordinators,-,-,-,`,,,0,0,0,0,0,0,0
+Document Management Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers",-2.02,-,-,1,,,1,0,0,0,0,0,0
+Dredge Operators,-1.14,1.11,-,1-2,,,0,0,0,4,0,0,0
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-,-,-,`,,,0,0,0,0,0,0,0
+Driver/Sales Workers,-1.37,-,-,1,,,1,0,0,0,0,0,0
+Drywall and Ceiling Tile Installers,-,-,-,`,,,0,0,0,0,0,0,0
+"Earth Drillers, Except Oil and Gas",-,1.90,-,2,,,0,2,0,0,0,0,0
+"Economics Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Economists,-,-,-,`,,,0,0,0,0,0,0,0
+Editors,-,-,-,`,,,0,0,0,0,0,0,0
+"Education Administrators, Elementary and Secondary School",-,-,-,`,,,0,0,0,0,0,0,0
+"Education Administrators, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+"Education Administrators, Preschool and Childcare Center/Program",-,-,-,`,,,0,0,0,0,0,0,0
+"Education Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+"Educational, Guidance, School, and Vocational Counselors",-,-,-,`,,,0,0,0,0,0,0,0
+"Electric Motor, Power Tool, and Related Repairers",-,1.67,1.07,2-3,,,0,0,0,0,0,6,0
+Electrical and Electronic Equipment Assemblers,-0.85,-,0.89,1-3,,,0,0,0,0,5,0,0
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",-,-,-,`,,,0,0,0,0,0,0,0
+"Electrical and Electronics Repairers, Commercial and Industrial Equipment",-,1.09,1.36,2-3,,,0,0,0,0,0,6,0
+"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",-,1.35,-,2,,,0,2,0,0,0,0,0
+Electrical Drafters,-,-,-,`,,,0,0,0,0,0,0,0
+Electrical Engineering Technicians,-,-,1.20,3,,,0,0,3,0,0,0,0
+Electrical Engineering Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Electrical Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Electrical Power-Line Installers and Repairers,-,1.90,-,2,,,0,2,0,0,0,0,0
+Electricians,-,1.48,-,2,,,0,2,0,0,0,0,0
+Electromechanical Engineering Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Electromechanical Equipment Assemblers,-,-,0.97,3,,,0,0,3,0,0,0,0
+Electro-Mechanical Technicians,-,-,1.61,3,,,0,0,3,0,0,0,0
+Electronic Drafters,-,-,0.91,3,,,0,0,3,0,0,0,0
+"Electronic Equipment Installers and Repairers, Motor Vehicles",-,-,1.72,3,,,0,0,3,0,0,0,0
+Electronic Home Entertainment Equipment Installers and Repairers,-,-,1.12,3,,,0,0,3,0,0,0,0
+Electronics Engineering Technicians,-,-,1.12,3,,,0,0,3,0,0,0,0
+Electronics Engineering Technologists,-,-,1.30,3,,,0,0,3,0,0,0,0
+"Electronics Engineers, Except Computer",-,-,1.27,3,,,0,0,3,0,0,0,0
+"Elementary School Teachers, Except Special Education",-,-,-,`,,,0,0,0,0,0,0,0
+Elevator Installers and Repairers,-,1.97,-,2,,,0,2,0,0,0,0,0
+"Eligibility Interviewers, Government Programs",-,-,-,`,,,0,0,0,0,0,0,0
+Embalmers,-,1.14,-,2,,,0,2,0,0,0,0,0
+Emergency Management Directors,-,-,-,`,,,0,0,0,0,0,0,0
+Emergency Medical Technicians and Paramedics,-,1.82,-,2,,,0,2,0,0,0,0,0
+Endoscopy Technicians,-,-,1.62,3,,,0,0,3,0,0,0,0
+Energy Auditors,-,-,-,`,,,0,0,0,0,0,0,0
+Energy Brokers,-,-,-,`,,,0,0,0,0,0,0,0
+Energy Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Engine and Other Machine Assemblers,-,1.04,-,2,,,0,2,0,0,0,0,0
+"Engineering Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+"English Language and Literature Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Environmental Compliance Inspectors,-,-,-,`,,,0,0,0,0,0,0,0
+Environmental Economists,-,-,-,`,,,0,0,0,0,0,0,0
+Environmental Engineering Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Environmental Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Environmental Restoration Planners,-,-,-,`,,,0,0,0,0,0,0,0
+"Environmental Science and Protection Technicians, Including Health",-,-,-,`,,,0,0,0,0,0,0,0
+"Environmental Science Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+"Environmental Scientists and Specialists, Including Health",-,-,-,`,,,0,0,0,0,0,0,0
+Epidemiologists,-,-,-,`,,,0,0,0,0,0,0,0
+Equal Opportunity Representatives and Officers,-,-,-,`,,,0,0,0,0,0,0,0
+Etchers and Engravers,-,-,-,`,,,0,0,0,0,0,0,0
+Excavating and Loading Machine and Dragline Operators,-,1.58,-,2,,,0,2,0,0,0,0,0
+Executive Secretaries and Executive Administrative Assistants,-,-,-,`,,,0,0,0,0,0,0,0
+Exercise Physiologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Explosives Workers, Ordnance Handling Experts, and Blasters",-,2.19,0.79,2-3,,,0,0,0,0,0,6,0
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",-,1.25,-,2,,,0,2,0,0,0,0,0
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",-,1.01,-,2,,,0,2,0,0,0,0,0
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",-,1.25,-,2,,,0,2,0,0,0,0,0
+Fabric and Apparel Patternmakers,-,-,1.76,3,,,0,0,3,0,0,0,0
+"Fabric Menders, Except Garment",-1.08,-,-,1,,,1,0,0,0,0,0,0
+Fallers,-,1.35,-,2,,,0,2,0,0,0,0,0
+Family and General Practitioners,-,-,-,`,,,0,0,0,0,0,0,0
+Farm and Home Management Advisors,-,-,-,`,,,0,0,0,0,0,0,0
+Farm and Ranch Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Farm Equipment Mechanics and Service Technicians,-,1.91,-,2,,,0,2,0,0,0,0,0
+Farm Labor Contractors,-1.24,-,-,1,,,1,0,0,0,0,0,0
+"Farmworkers and Laborers, Crop",-1.63,-,-,1,,,1,0,0,0,0,0,0
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",-,1.08,-,2,,,0,2,0,0,0,0,0
+Fashion Designers,-,-,1.73,3,,,0,0,3,0,0,0,0
+Fence Erectors,-0.97,1.12,-,1-2,,,0,0,0,4,0,0,0
+Fiberglass Laminators and Fabricators,-,1.31,-,2,,,0,2,0,0,0,0,0
+File Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+Film and Video Editors,-,-,1.34,3,,,0,0,3,0,0,0,0
+Financial Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Financial Examiners,-,-,-,`,,,0,0,0,0,0,0,0
+"Financial Managers, Branch or Department",-,-,-,`,,,0,0,0,0,0,0,0
+Financial Quantitative Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+"Fine Artists, Including Painters, Sculptors, and Illustrators",-,-,1.26,3,,,0,0,3,0,0,0,0
+Fire Inspectors,-,-,-,`,,,0,0,0,0,0,0,0
+Fire Investigators,-,1.79,-,2,,,0,2,0,0,0,0,0
+Fire-Prevention and Protection Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Agricultural Crop and Horticultural Workers,-,1.19,-,2,,,0,2,0,0,0,0,0
+First-Line Supervisors of Animal Husbandry and Animal Care Workers,-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Aquacultural Workers,-,1.16,-,2,,,0,2,0,0,0,0,0
+First-Line Supervisors of Construction Trades and Extraction Workers,-,1.35,-,2,,,0,2,0,0,0,0,0
+First-Line Supervisors of Correctional Officers,-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Food Preparation and Serving Workers,-0.92,-,-,1,,,1,0,0,0,0,0,0
+"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Housekeeping and Janitorial Workers,-1.21,-,-,1,,,1,0,0,0,0,0,0
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",-,1.41,-,2,,,0,2,0,0,0,0,0
+First-Line Supervisors of Logging Workers,-,1.53,-,2,,,0,2,0,0,0,0,0
+"First-Line Supervisors of Mechanics, Installers, and Repairers",-,1.32,-,2,,,0,2,0,0,0,0,0
+First-Line Supervisors of Non-Retail Sales Workers,-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Office and Administrative Support Workers,-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Personal Service Workers,-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Police and Detectives,-,1.40,-,2,,,0,2,0,0,0,0,0
+First-Line Supervisors of Production and Operating Workers,-,-,-,`,,,0,0,0,0,0,0,0
+First-Line Supervisors of Retail Sales Workers,-1.11,-,-,1,,,1,0,0,0,0,0,0
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,-,-,-,`,,,0,0,0,0,0,0,0
+Fish and Game Wardens,-,1.06,-,2,,,0,2,0,0,0,0,0
+Fishers and Related Fishing Workers,-1.07,-,-,1,,,1,0,0,0,0,0,0
+Fitness and Wellness Coordinators,-,-,-,`,,,0,0,0,0,0,0,0
+Fitness Trainers and Aerobics Instructors,-1.21,-,-,1,,,1,0,0,0,0,0,0
+Flight Attendants,-0.99,-,-,1,,,1,0,0,0,0,0,0
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",-,-,-,`,,,0,0,0,0,0,0,0
+Floor Sanders and Finishers,-1.04,1.25,-,1-2,,,0,0,0,4,0,0,0
+Floral Designers,-1.13,-,1.36,1-3,,,0,0,3,0,5,0,0
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",-1.01,-,-,1,,,1,0,0,0,0,0,0
+Food Batchmakers,-,-,-,`,,,0,0,0,0,0,0,0
+Food Cooking Machine Operators and Tenders,-0.86,-,-,1,,,1,0,0,0,0,0,0
+Food Preparation Workers,-2.06,-,-,1,,,1,0,0,0,0,0,0
+Food Science Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Food Scientists and Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Food Servers, Nonrestaurant",-1.95,-,-,1,,,1,0,0,0,0,0,0
+Food Service Managers,-,-,0.76,3,,,0,0,3,0,0,0,0
+"Foreign Language and Literature Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Forensic Science Technicians,-,-,0.77,3,,,0,0,3,0,0,0,0
+Forest and Conservation Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Forest and Conservation Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Forest Fire Fighting and Prevention Supervisors,-,1.92,-,2,,,0,2,0,0,0,0,0
+Forest Fire Inspectors and Prevention Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Forest Firefighters,-,1.85,-,2,,,0,2,0,0,0,0,0
+Foresters,-,-,-,`,,,0,0,0,0,0,0,0
+"Forestry and Conservation Science Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",-,-,-,`,,,0,0,0,0,0,0,0
+Foundry Mold and Coremakers,-0.97,1.44,-,1-2,,,0,0,0,4,0,0,0
+"Fraud Examiners, Investigators and Analysts",-,-,-,`,,,0,0,0,0,0,0,0
+Freight and Cargo Inspectors,-,-,-,`,,,0,0,0,0,0,0,0
+Freight Forwarders,-,-,-,`,,,0,0,0,0,0,0,0
+Fuel Cell Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Fundraisers,-,-,-,`,,,0,0,0,0,0,0,0
+Funeral Attendants,-1.60,-,-,1,,,1,0,0,0,0,0,0
+Funeral Service Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",-,1.08,-,2,,,0,2,0,0,0,0,0
+Furniture Finishers,-,-,0.81,3,,,0,0,3,0,0,0,0
+Gaming and Sports Book Writers and Runners,-1.49,-,-,1,,,1,0,0,0,0,0,0
+Gaming Cage Workers,-1.52,-,-,1,,,1,0,0,0,0,0,0
+Gaming Change Persons and Booth Cashiers,-1.37,-,1.22,1-3,,,0,0,3,0,5,0,0
+Gaming Dealers,-1.43,-,2.08,1-3,,,0,0,0,0,5,0,0
+Gaming Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Gaming Supervisors,-1.14,-,-,1,,,1,0,0,0,0,0,0
+Gaming Surveillance Officers and Gaming Investigators,-,-,-,`,,,0,0,0,0,0,0,0
+Gas Compressor and Gas Pumping Station Operators,-,2.18,-,2,,,0,2,0,0,0,0,0
+Gas Plant Operators,-,1.40,-,2,,,0,2,0,0,0,0,0
+Gem and Diamond Workers,-,-,1.00,3,,,0,0,3,0,0,0,0
+General and Operations Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Genetic Counselors,-,-,-,`,,,0,0,0,0,0,0,0
+Geneticists,-,-,0.74,3,,,0,0,3,0,0,0,0
+Geodetic Surveyors,-,-,-,`,,,0,0,0,0,0,0,0
+Geographers,-,-,-,`,,,0,0,0,0,0,0,0
+Geographic Information Systems Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+"Geography Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Geological Sample Test Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Geophysical Data Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+"Geoscientists, Except Hydrologists and Geographers",-,-,-,`,,,0,0,0,0,0,0,0
+Geospatial Information Scientists and Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Geothermal Production Managers,-,1.18,-,2,,,0,2,0,0,0,0,0
+Geothermal Technicians,-,1.67,-,2,,,0,2,0,0,0,0,0
+"Glass Blowers, Molders, Benders, and Finishers",-,1.10,-,2,,,0,2,0,0,0,0,0
+Glaziers,-,1.03,-,2,,,0,2,0,0,0,0,0
+Government Property Inspectors and Investigators,-,-,-,`,,,0,0,0,0,0,0,0
+"Graders and Sorters, Agricultural Products",-2.26,-,-,1,,,1,0,0,0,0,0,0
+Graduate Teaching Assistants,-,-,-,`,,,0,0,0,0,0,0,0
+Graphic Designers,-,-,0.92,3,,,0,0,3,0,0,0,0
+"Grinding and Polishing Workers, Hand",-,1.04,-,2,,,0,2,0,0,0,0,0
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-,-,-,`,,,0,0,0,0,0,0,0
+"Hairdressers, Hairstylists, and Cosmetologists",-,-,3.47,3,,,0,0,3,0,0,0,0
+Hazardous Materials Removal Workers,-,1.02,-,2,,,0,2,0,0,0,0,0
+Health Educators,-,-,-,`,,,0,0,0,0,0,0,0
+"Health Specialties Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Healthcare Social Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Hearing Aid Specialists,-,-,1.51,3,,,0,0,3,0,0,0,0
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",-,1.26,-,2,,,0,2,0,0,0,0,0
+Heating and Air Conditioning Mechanics and Installers,-,1.63,-,2,,,0,2,0,0,0,0,0
+Heavy and Tractor-Trailer Truck Drivers,-,-,-,`,,,0,0,0,0,0,0,0
+"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",-1.22,1.38,-,1-2,,,0,0,0,4,0,0,0
+Helpers--Carpenters,-,1.35,-,2,,,0,2,0,0,0,0,0
+Helpers--Electricians,-,1.33,-,2,,,0,2,0,0,0,0,0
+Helpers--Extraction Workers,-,2.19,-,2,,,0,2,0,0,0,0,0
+"Helpers--Installation, Maintenance, and Repair Workers",-,-,-,`,,,0,0,0,0,0,0,0
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",-1.99,-,-,1,,,1,0,0,0,0,0,0
+"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",-1.06,1.05,-,1-2,,,0,0,0,4,0,0,0
+Helpers--Production Workers,-1.41,-,-,1,,,1,0,0,0,0,0,0
+Helpers--Roofers,-1.39,1.43,-,1-2,,,0,0,0,4,0,0,0
+Highway Maintenance Workers,-1.29,1.42,-,1-2,,,0,0,0,4,0,0,0
+Historians,-,-,-,`,,,0,0,0,0,0,0,0
+"History Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Histotechnologists and Histologic Technicians,-,-,1.34,3,,,0,0,3,0,0,0,0
+Hoist and Winch Operators,-,1.65,-,2,,,0,2,0,0,0,0,0
+Home Appliance Repairers,-,-,1.21,3,,,0,0,3,0,0,0,0
+"Home Economics Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Home Health Aides,-,-,0.89,3,,,0,0,3,0,0,0,0
+Hospitalists,-,-,-,`,,,0,0,0,0,0,0,0
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",-2.17,-,-,1,,,1,0,0,0,0,0,0
+"Hotel, Motel, and Resort Desk Clerks",-1.44,-,0.87,1-3,,,0,0,0,0,5,0,0
+Human Factors Engineers and Ergonomists,-,-,-,`,,,0,0,0,0,0,0,0
+"Human Resources Assistants, Except Payroll and Timekeeping",-0.89,-,-,1,,,1,0,0,0,0,0,0
+Human Resources Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Human Resources Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Hunters and Trappers,-,-,-,`,,,0,0,0,0,0,0,0
+Hydroelectric Plant Technicians,-,1.59,-,2,,,0,2,0,0,0,0,0
+Hydroelectric Production Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Hydrologists,-,-,-,`,,,0,0,0,0,0,0,0
+Immigration and Customs Inspectors,-,1.15,-,2,,,0,2,0,0,0,0,0
+Industrial Ecologists,-,-,-,`,,,0,0,0,0,0,0,0
+Industrial Engineering Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Industrial Engineering Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Industrial Engineers,-,-,-,0,,,0,0,0,0,0,0,0
+Industrial Machinery Mechanics,-,1.64,-,2,,,0,2,0,0,0,0,0
+Industrial Production Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Industrial Safety and Health Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Industrial Truck and Tractor Operators,-1.39,1.54,-,1-2,,,0,0,0,4,0,0,0
+Industrial-Organizational Psychologists,-,-,-,`,,,0,0,0,0,0,0,0
+Informatics Nurse Specialists,-,-,1.23,3,,,0,0,3,0,0,0,0
+Information Security Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Information Technology Project Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Inspectors, Testers, Sorters, Samplers, and Weighers",-,-,-,`,,,0,0,0,0,0,0,0
+Instructional Coordinators,-,-,-,`,,,0,0,0,0,0,0,0
+Instructional Designers and Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Insulation Workers, Floor, Ceiling, and Wall",-1.17,-,-,1,,,1,0,0,0,0,0,0
+"Insulation Workers, Mechanical",-,1.48,-,2,,,0,2,0,0,0,0,0
+"Insurance Adjusters, Examiners, and Investigators",-,-,0.82,3,,,0,0,3,0,0,0,0
+"Insurance Appraisers, Auto Damage",-,-,-,`,,,0,0,0,0,0,0,0
+Insurance Claims Clerks,-,-,0.84,3,,,0,0,3,0,0,0,0
+Insurance Policy Processing Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+Insurance Sales Agents,-,-,-,`,,,0,0,0,0,0,0,0
+Insurance Underwriters,-,-,-,`,,,0,0,0,0,0,0,0
+Intelligence Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Interior Designers,-,-,-,`,,,0,0,0,0,0,0,0
+"Internists, General",-,-,0.75,3,,,0,0,3,0,0,0,0
+Interpreters and Translators,-,-,-,`,,,0,0,0,0,0,0,0
+"Interviewers, Except Eligibility and Loan",-1.46,-,-,1,,,1,0,0,0,0,0,0
+Investment Fund Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",-1.95,-,-,1,,,1,0,0,0,0,0,0
+Jewelers,-,-,2.37,3,,,0,0,3,0,0,0,0
+"Judges, Magistrate Judges, and Magistrates",-,-,-,`,,,0,0,0,0,0,0,0
+Judicial Law Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+"Kindergarten Teachers, Except Special Education",-,-,-,`,,,0,0,0,0,0,0,0
+Labor Relations Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+"Laborers and Freight, Stock, and Material Movers, Hand",-1.49,-,-,1,,,1,0,0,0,0,0,0
+Landscape Architects,-,-,-,`,,,0,0,0,0,0,0,0
+Landscaping and Groundskeeping Workers,-1.54,1.18,-,1-2,,,0,0,0,4,0,0,0
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-,-,-,`,,,0,0,0,0,0,0,0
+Laundry and Dry-Cleaning Workers,-1.79,-,-,1,,,1,0,0,0,0,0,0
+"Law Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Lawyers,-,-,1.01,3,,,0,0,3,0,0,0,0
+"Layout Workers, Metal and Plastic",-,1.56,-,2,,,0,2,0,0,0,0,0
+Legal Secretaries,-,-,-,`,,,0,0,0,0,0,0,0
+Librarians,-,-,-,`,,,0,0,0,0,0,0,0
+"Library Assistants, Clerical",-0.96,-,-,1,,,1,0,0,0,0,0,0
+"Library Science Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Library Technicians,-1.01,-,-,1,,,1,0,0,0,0,0,0
+License Clerks,-0.95,-,-,1,,,1,0,0,0,0,0,0
+Licensed Practical and Licensed Vocational Nurses,-,-,1.05,3,,,0,0,3,0,0,0,0
+Licensing Examiners and Inspectors,-,-,-,`,,,0,0,0,0,0,0,0
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",-1.05,-,-,1,,,1,0,0,0,0,0,0
+Light Truck or Delivery Services Drivers,-1.05,-,-,1,,,1,0,0,0,0,0,0
+"Loading Machine Operators, Underground Mining",-1.21,1.45,-,1-2,,,0,0,0,4,0,0,0
+Loan Counselors,-,-,-,`,,,0,0,0,0,0,0,0
+Loan Interviewers and Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+Loan Officers,-,-,-,`,,,0,0,0,0,0,0,0
+"Locker Room, Coatroom, and Dressing Room Attendants",-2.59,-,-,1,,,1,0,0,0,0,0,0
+Locksmiths and Safe Repairers,-,-,-,`,,,0,0,0,0,0,0,0
+Locomotive Engineers,-,1.71,-,2,,,0,2,0,0,0,0,0
+Locomotive Firers,-,1.31,-,2,,,0,2,0,0,0,0,0
+Lodging Managers,-,-,-,0,,,0,0,0,0,0,0,0
+Log Graders and Scalers,-,-,-,0,,,0,0,0,0,0,0,0
+Logging Equipment Operators,-0.88,-,-,1,,,1,0,0,0,0,0,0
+Logisticians,-,-,-,`,,,0,0,0,0,0,0,0
+Logistics Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Logistics Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Logistics Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Loss Prevention Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists",-,-,-,`,,,0,0,0,0,0,0,0
+Machine Feeders and Offbearers,-1.80,-,-,1,,,1,0,0,0,0,0,0
+Machinists,-,1.07,-,2,,,0,2,0,0,0,0,0
+Magnetic Resonance Imaging Technologists,-,-,1.20,3,,,0,0,3,0,0,0,0
+Maids and Housekeeping Cleaners,-2.02,-,-,1,,,1,0,0,0,0,0,0
+"Mail Clerks and Mail Machine Operators, Except Postal Service",-1.48,-,0.86,1-3,,,0,0,0,0,5,0,0
+"Maintenance and Repair Workers, General",-,1.39,-,2,,,0,2,0,0,0,0,0
+"Maintenance Workers, Machinery",-,1.29,-,2,,,0,2,0,0,0,0,0
+"Makeup Artists, Theatrical and Performance",-1.05,-,2.23,1-3,,,0,0,0,0,5,0,0
+Management Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Manicurists and Pedicurists,-2.23,-,-,1,,,1,0,0,0,0,0,0
+Manufactured Building and Mobile Home Installers,-,2.15,1.31,2-3,,,0,0,0,0,0,6,0
+Manufacturing Engineering Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Manufacturing Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Manufacturing Production Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Mapping Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Marine Architects,-,-,-,`,,,0,0,0,0,0,0,0
+Marine Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Market Research Analysts and Marketing Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Marketing Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Marking Clerks,-1.74,-,0.82,1-3,,,0,0,0,0,5,0,0
+Marriage and Family Therapists,-,-,-,`,,,0,0,0,0,0,0,0
+Massage Therapists,-,-,1.43,3,,,0,0,3,0,0,0,0
+Materials Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Materials Scientists,-,-,-,`,,,0,0,0,0,0,0,0
+"Mates- Ship, Boat, and Barge",-,1.62,-,2,,,0,2,0,0,0,0,0
+"Mathematical Science Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Mathematicians,-,-,-,`,,,0,0,0,0,0,0,0
+"Meat, Poultry, and Fish Cutters and Trimmers",-1.83,-,-,1,,,1,0,0,0,0,0,0
+Mechanical Door Repairers,-,1.19,-,2,,,0,2,0,0,0,0,0
+Mechanical Drafters,-,-,-,`,,,0,0,0,0,0,0,0
+Mechanical Engineering Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Mechanical Engineering Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Mechanical Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Mechatronics Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Medical and Clinical Laboratory Technicians,-,-,1.45,3,,,0,0,3,0,0,0,0
+Medical and Clinical Laboratory Technologists,-,-,1.21,3,,,0,0,3,0,0,0,0
+Medical and Health Services Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Medical Appliance Technicians,-,1.47,0.83,2-3,,,0,0,0,0,0,6,0
+Medical Assistants,-,-,0.94,3,,,0,0,3,0,0,0,0
+Medical Equipment Preparers,-,-,0.90,3,,,0,0,3,0,0,0,0
+Medical Equipment Repairers,-,-,1.36,3,,,0,0,3,0,0,0,0
+Medical Records and Health Information Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+"Medical Scientists, Except Epidemiologists",-,-,-,`,,,0,0,0,0,0,0,0
+Medical Secretaries,-,-,-,`,,,0,0,0,0,0,0,0
+Medical Transcriptionists,-,-,1.03,3,,,0,0,3,0,0,0,0
+"Meeting, Convention, and Event Planners",-,-,-,`,,,0,0,0,0,0,0,0
+Mental Health and Substance Abuse Social Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Mental Health Counselors,-,-,-,`,,,0,0,0,0,0,0,0
+Merchandise Displayers and Window Trimmers,-1.01,-,1.59,1-3,,,0,0,0,0,5,0,0
+Metal-Refining Furnace Operators and Tenders,-,1.77,-,2,,,0,2,0,0,0,0,0
+"Meter Readers, Utilities",-0.93,-,-,1,,,1,0,0,0,0,0,0
+Microbiologists,-,-,1.01,3,,,0,0,3,0,0,0,0
+Microsystems Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+"Middle School Teachers, Except Special and Career/Technical Education",-,-,-,`,,,0,0,0,0,0,0,0
+Midwives,-,-,-,`,,,0,0,0,0,0,0,0
+"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",-,-,-,`,,,0,0,0,0,0,0,0
+Millwrights,-,2.05,1.30,2-3,,,0,0,0,0,0,6,0
+Mine Cutting and Channeling Machine Operators,-,1.64,-,2,,,0,2,0,0,0,0,0
+Mine Shuttle Car Operators,-1.45,1.28,-,1-2,,,0,0,0,4,0,0,0
+"Mining and Geological Engineers, Including Mining Safety Engineers",-,-,-,`,,,0,0,0,0,0,0,0
+"Mixing and Blending Machine Setters, Operators, and Tenders",-,-,-,`,,,0,0,0,0,0,0,0
+"Mobile Heavy Equipment Mechanics, Except Engines",-,1.83,1.00,2-3,,,0,0,0,0,0,6,0
+"Model Makers, Metal and Plastic",-,1.09,-,2,,,0,2,0,0,0,0,0
+"Model Makers, Wood",-,1.27,-,2,,,0,2,0,0,0,0,0
+Models,-2.55,-,-,1,,,1,0,0,0,0,0,0
+Molding and Casting Workers,-,-,-,`,,,0,0,0,0,0,0,0
+"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",-,1.30,-,2,,,0,2,0,0,0,0,0
+Molecular and Cellular Biologists,-,-,0.77,3,,,0,0,3,0,0,0,0
+"Morticians, Undertakers, and Funeral Directors",-,1.10,-,2,,,0,2,0,0,0,0,0
+Motion Picture Projectionists,-1.08,-,-,1,,,1,0,0,0,0,0,0
+Motorboat Mechanics and Service Technicians,-,1.54,-,2,,,0,2,0,0,0,0,0
+Motorboat Operators,-,1.02,-,2,,,0,2,0,0,0,0,0
+Motorcycle Mechanics,-,-,1.50,3,,,0,0,3,0,0,0,0
+Multimedia Artists and Animators,-,-,1.10,3,,,0,0,3,0,0,0,0
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",-,1.14,-,2,,,0,2,0,0,0,0,0
+Municipal Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+Municipal Fire Fighting and Prevention Supervisors,-,2.06,-,2,,,0,2,0,0,0,0,0
+Municipal Firefighters,-,2.01,-,2,,,0,2,0,0,0,0,0
+Museum Technicians and Conservators,-,-,-,`,,,0,0,0,0,0,0,0
+Music Composers and Arrangers,-,-,-,`,,,0,0,0,0,0,0,0
+Music Directors,-0.88,-,-,1,,,1,0,0,0,0,0,0
+Music Therapists,-,-,1.51,3,,,0,0,3,0,0,0,0
+Musical Instrument Repairers and Tuners,-,-,2.18,3,,,0,0,3,0,0,0,0
+"Musicians, Instrumental",-1.55,-,2.63,1-3,,,0,0,0,0,5,0,0
+Nannies,-,-,-,`,,,0,0,0,0,0,0,0
+Nanosystems Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Nanotechnology Engineering Technicians,-,-,1.26,3,,,0,0,3,0,0,0,0
+Nanotechnology Engineering Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Natural Sciences Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Naturopathic Physicians,-,-,-,`,,,0,0,0,0,0,0,0
+Network and Computer Systems Administrators,-,-,1.03,3,,,0,0,3,0,0,0,0
+Neurodiagnostic Technologists,-,-,1.21,3,,,0,0,3,0,0,0,0
+Neurologists,-,-,-,`,,,0,0,0,0,0,0,0
+Neuropsychologists and Clinical Neuropsychologists,-,-,-,`,,,0,0,0,0,0,0,0
+New Accounts Clerks,-,-,1.34,3,,,0,0,3,0,0,0,0
+Non-Destructive Testing Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Nonfarm Animal Caretakers,-1.13,-,-,1,,,1,0,0,0,0,0,0
+Nuclear Engineers,-,-,-,0,,,0,0,0,0,0,0,0
+Nuclear Equipment Operation Technicians,-,1.19,-,2,,,0,2,0,0,0,0,0
+Nuclear Medicine Physicians,-,-,1.33,3,,,0,0,3,0,0,0,0
+Nuclear Medicine Technologists,-,-,1.12,3,,,0,0,3,0,0,0,0
+Nuclear Monitoring Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Nuclear Power Reactor Operators,-,-,-,`,,,0,0,0,0,0,0,0
+Nurse Anesthetists,-,-,1.37,3,,,0,0,3,0,0,0,0
+Nurse Midwives,-,-,1.07,3,,,0,0,3,0,0,0,0
+Nurse Practitioners,-,-,1.13,3,,,0,0,3,0,0,0,0
+Nursery and Greenhouse Managers,-,1.30,-,2,,,0,2,0,0,0,0,0
+Nursery Workers,-2.07,-,-,1,,,1,0,0,0,0,0,0
+Nursing Assistants,-0.89,-,-,1,,,1,0,0,0,0,0,0
+"Nursing Instructors and Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Obstetricians and Gynecologists,-,-,1.19,3,,,0,0,3,0,0,0,0
+Occupational Health and Safety Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Occupational Health and Safety Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Occupational Therapists,-,-,-,`,,,0,0,0,0,0,0,0
+Occupational Therapy Aides,-,-,-,`,,,0,0,0,0,0,0,0
+Occupational Therapy Assistants,-,-,1.06,3,,,0,0,3,0,0,0,0
+"Office Clerks, General",-0.87,-,-,1,,,1,0,0,0,0,0,0
+"Office Machine Operators, Except Computer",-,-,-,`,,,0,0,0,0,0,0,0
+Online Merchants,-,-,-,`,,,0,0,0,0,0,0,0
+Operating Engineers and Other Construction Equipment Operators,-1.07,1.54,-,1-2,,,0,0,0,4,0,0,0
+Operations Research Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Ophthalmic Laboratory Technicians,-1.04,-,1.49,1-3,,,0,0,0,0,5,0,0
+Ophthalmic Medical Technicians,-,-,1.55,3,,,0,0,3,0,0,0,0
+Ophthalmic Medical Technologists,-,-,1.58,3,,,0,0,3,0,0,0,0
+Ophthalmologists,-,-,2.02,3,,,0,0,3,0,0,0,0
+"Opticians, Dispensing",-,-,1.99,3,,,0,0,3,0,0,0,0
+Optometrists,-,-,1.99,3,,,0,0,3,0,0,0,0
+Oral and Maxillofacial Surgeons,-,1.19,2.34,2-3,,,0,0,0,0,0,6,0
+Order Clerks,-0.85,-,0.75,1-3,,,0,0,0,0,5,0,0
+"Order Fillers, Wholesale and Retail Sales",-1.78,-,-,1,,,1,0,0,0,0,0,0
+Orderlies,-1.85,-,-,1,,,1,0,0,0,0,0,0
+Orthodontists,-,-,2.53,3,,,0,0,3,0,0,0,0
+Orthoptists,-,-,1.50,3,,,0,0,3,0,0,0,0
+Orthotists and Prosthetists,-,1.55,-,2,,,0,2,0,0,0,0,0
+Outdoor Power Equipment and Other Small Engine Mechanics,-,1.53,-,2,,,0,2,0,0,0,0,0
+Packaging and Filling Machine Operators and Tenders,-1.07,1.02,-,1-2,,,0,0,0,4,0,0,0
+"Packers and Packagers, Hand",-2.06,-,-,1,,,1,0,0,0,0,0,0
+"Painters, Construction and Maintenance",-1.55,-,-,1,,,1,0,0,0,0,0,0
+"Painters, Transportation Equipment",-,1.51,-,2,,,0,2,0,0,0,0,0
+"Painting, Coating, and Decorating Workers",-1.56,-,-,1,,,1,0,0,0,0,0,0
+"Paper Goods Machine Setters, Operators, and Tenders",-,-,-,`,,,0,0,0,0,0,0,0
+Paperhangers,-1.09,-,-,1,,,1,0,0,0,0,0,0
+Paralegals and Legal Assistants,-,-,-,`,,,0,0,0,0,0,0,0
+Park Naturalists,-,-,-,`,,,0,0,0,0,0,0,0
+Parking Enforcement Workers,-1.34,-,-,1,,,1,0,0,0,0,0,0
+Parking Lot Attendants,-1.60,-,-,1,,,1,0,0,0,0,0,0
+Parts Salespersons,-,-,1.04,3,,,0,0,3,0,0,0,0
+Pathologists,-,-,-,`,,,0,0,0,0,0,0,0
+Patient Representatives,-,-,-,`,,,0,0,0,0,0,0,0
+"Patternmakers, Metal and Plastic",-,-,-,`,,,0,0,0,0,0,0,0
+"Patternmakers, Wood",-,1.43,-,2,,,0,2,0,0,0,0,0
+"Paving, Surfacing, and Tamping Equipment Operators",-1.08,1.45,-,1-2,,,0,0,0,4,0,0,0
+Payroll and Timekeeping Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+"Pediatricians, General",-,-,-,`,,,0,0,0,0,0,0,0
+Personal Care Aides,-,-,-,`,,,0,0,0,0,0,0,0
+Personal Financial Advisors,-,-,-,`,,,0,0,0,0,0,0,0
+Pest Control Workers,-,-,-,`,,,0,0,0,0,0,0,0
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",-,1.25,-,2,,,0,2,0,0,0,0,0
+Petroleum Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+"Petroleum Pump System Operators, Refinery Operators, and Gaugers",-,1.62,-,2,,,0,2,0,0,0,0,0
+Pharmacists,-,-,1.58,3,,,0,0,3,0,0,0,0
+Pharmacy Aides,-1.08,-,1.06,1-3,,,0,0,0,0,5,0,0
+Pharmacy Technicians,-,-,2.04,3,,,0,0,3,0,0,0,0
+"Philosophy and Religion Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Phlebotomists,-,-,1.32,3,,,0,0,3,0,0,0,0
+Photographers,-1.02,-,1.04,1-3,,,0,0,0,0,5,0,0
+Photographic Process Workers and Processing Machine Operators,-,-,0.85,3,,,0,0,3,0,0,0,0
+Photonics Engineers,-,-,0.76,3,,,0,0,3,0,0,0,0
+Photonics Technicians,-,-,1.04,3,,,0,0,3,0,0,0,0
+Physical Medicine and Rehabilitation Physicians,-,-,-,`,,,0,0,0,0,0,0,0
+Physical Therapist Aides,-1.12,-,-,1,,,1,0,0,0,0,0,0
+Physical Therapist Assistants,-,-,1.13,3,,,0,0,3,0,0,0,0
+Physical Therapists,-,-,1.41,3,,,0,0,3,0,0,0,0
+Physician Assistants,-,-,0.86,3,,,0,0,3,0,0,0,0
+Physicists,-,-,-,`,,,0,0,0,0,0,0,0
+"Physics Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Pile-Driver Operators,-0.87,1.91,-,1-2,,,0,0,0,4,0,0,0
+"Pilots, Ship",-,1.68,-,2,,,0,2,0,0,0,0,0
+Pipe Fitters and Steamfitters,-,1.32,-,2,,,0,2,0,0,0,0,0
+Pipelayers,-0.96,1.26,-,1-2,,,0,0,0,4,0,0,0
+Plasterers and Stucco Masons,-1.38,-,-,1,,,1,0,0,0,0,0,0
+"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",-,1.25,-,2,,,0,2,0,0,0,0,0
+Plumbers,-,1.66,-,2,,,0,2,0,0,0,0,0
+Podiatrists,-,-,1.00,3,,,0,0,3,0,0,0,0
+"Poets, Lyricists and Creative Writers",-,-,-,`,,,0,0,0,0,0,0,0
+Police Detectives,-,1.23,-,2,,,0,2,0,0,0,0,0
+Police Identification and Records Officers,-,-,-,`,,,0,0,0,0,0,0,0
+Police Patrol Officers,-,1.48,-,2,,,0,2,0,0,0,0,0
+"Police, Fire, and Ambulance Dispatchers",-,-,1.22,3,,,0,0,3,0,0,0,0
+"Political Science Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Political Scientists,-,-,-,`,,,0,0,0,0,0,0,0
+Postal Service Clerks,-0.95,-,1.15,1-3,,,0,0,0,0,5,0,0
+Postal Service Mail Carriers,-1.45,-,-,1,,,1,0,0,0,0,0,0
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",-1.29,-,-,1,,,1,0,0,0,0,0,0
+Postmasters and Mail Superintendents,-,-,-,`,,,0,0,0,0,0,0,0
+"Potters, Manufacturing",-1.04,-,1.29,1-3,,,0,0,0,0,5,0,0
+"Pourers and Casters, Metal",-,1.86,-,2,,,0,2,0,0,0,0,0
+Power Distributors and Dispatchers,-,-,-,`,,,0,0,0,0,0,0,0
+Power Plant Operators,-,1.51,-,2,,,0,2,0,0,0,0,0
+Precious Metal Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Precision Agriculture Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Prepress Technicians and Workers,-,-,0.82,3,,,0,0,3,0,0,0,0
+"Preschool Teachers, Except Special Education",-,-,-,0,,,0,0,0,0,0,0,0
+"Pressers, Textile, Garment, and Related Materials",-1.79,-,-,1,,,1,0,0,0,0,0,0
+Preventive Medicine Physicians,-,-,-,`,,,0,0,0,0,0,0,0
+Print Binding and Finishing Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Printing Press Operators,-,1.09,-,2,,,0,2,0,0,0,0,0
+Private Detectives and Investigators,-,-,-,`,,,0,0,0,0,0,0,0
+Probation Officers and Correctional Treatment Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Procurement Clerks,-,-,-,`,,,0,0,0,0,0,0,0
+Producers,-,-,-,`,,,0,0,0,0,0,0,0
+Product Safety Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+"Production, Planning, and Expediting Clerks",-,-,-,`,,,0,0,0,0,0,0,0
+Program Directors,-,-,0.76,3,,,0,0,3,0,0,0,0
+Proofreaders and Copy Markers,-0.88,-,-,1,,,1,0,0,0,0,0,0
+"Property, Real Estate, and Community Association Managers",-,-,-,`,,,0,0,0,0,0,0,0
+Prosthodontists,-,1.20,1.98,2-3,,,0,0,0,0,0,6,0
+Psychiatric Aides,-,-,-,`,,,0,0,0,0,0,0,0
+Psychiatric Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Psychiatrists,-,-,-,`,,,0,0,0,0,0,0,0
+"Psychology Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Public Address System and Other Announcers,-1.48,-,-,1,,,1,0,0,0,0,0,0
+Public Relations and Fundraising Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Public Relations Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+"Pump Operators, Except Wellhead Pumpers",-,-,-,`,,,0,0,0,0,0,0,0
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",-,-,-,`,,,0,0,0,0,0,0,0
+Purchasing Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Quality Control Analysts,-,-,-,`,,,0,0,0,0,0,0,0
+Quality Control Systems Managers,-,-,0.77,3,,,0,0,3,0,0,0,0
+Radiation Therapists,-,-,0.89,3,,,0,0,3,0,0,0,0
+Radio and Television Announcers,-,-,-,`,,,0,0,0,0,0,0,0
+Radio Frequency Identification Device Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Radio Mechanics,-,-,0.75,3,,,0,0,3,0,0,0,0
+Radio Operators,-,-,0.88,3,,,0,0,3,0,0,0,0
+"Radio, Cellular, and Tower Equipment Installers and Repairers",-,-,-,`,,,0,0,0,0,0,0,0
+Radiologic Technicians,-,-,1.80,3,,,0,0,3,0,0,0,0
+Radiologic Technologists,-,-,0.98,3,,,0,0,3,0,0,0,0
+Radiologists,-,-,0.92,3,,,0,0,3,0,0,0,0
+Rail Car Repairers,-,1.54,-,2,,,0,2,0,0,0,0,0
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",-,1.24,-,2,,,0,2,0,0,0,0,0
+"Railroad Brake, Signal, and Switch Operators",-,1.80,-,2,,,0,2,0,0,0,0,0
+Railroad Conductors and Yardmasters,-,1.06,-,2,,,0,2,0,0,0,0,0
+Rail-Track Laying and Maintenance Equipment Operators,-,1.85,-,2,,,0,2,0,0,0,0,0
+Range Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Real Estate Brokers,-,-,-,`,,,0,0,0,0,0,0,0
+Real Estate Sales Agents,-,-,-,`,,,0,0,0,0,0,0,0
+Receptionists and Information Clerks,-1.13,-,-,1,,,1,0,0,0,0,0,0
+"Recreation and Fitness Studies Teachers, Postsecondary",-,-,-,0,,,0,0,0,0,0,0,0
+Recreation Workers,-1.05,-,-,1,,,1,0,0,0,0,0,0
+Recreational Therapists,-,-,-,`,,,0,0,0,0,0,0,0
+Recreational Vehicle Service Technicians,-,1.36,-,2,,,0,2,0,0,0,0,0
+Recycling and Reclamation Workers,-1.40,1.20,-,1-2,,,0,0,0,4,0,0,0
+Recycling Coordinators,-,-,-,`,,,0,0,0,0,0,0,0
+"Refractory Materials Repairers, Except Brickmasons",-,1.45,-,2,,,0,2,0,0,0,0,0
+Refrigeration Mechanics and Installers,-,1.85,-,2,,,0,2,0,0,0,0,0
+Refuse and Recyclable Material Collectors,-1.13,1.30,-,1-2,,,0,0,0,4,0,0,0
+Registered Nurses,-,-,1.04,3,,,0,0,3,0,0,0,0
+Regulatory Affairs Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Regulatory Affairs Specialists,-,-,-,0,,,0,0,0,0,0,0,0
+Rehabilitation Counselors,-,-,-,`,,,0,0,0,0,0,0,0
+Reinforcing Iron and Rebar Workers,-0.91,1.37,-,1-2,,,0,0,0,4,0,0,0
+Remote Sensing Scientists and Technologists,-,-,-,`,,,0,0,0,0,0,0,0
+Remote Sensing Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Reporters and Correspondents,-,-,-,`,,,0,0,0,0,0,0,0
+Reservation and Transportation Ticket Agents and Travel Clerks,-,-,1.11,3,,,0,0,3,0,0,0,0
+Residential Advisors,-,-,-,`,,,0,0,0,0,0,0,0
+Respiratory Therapists,-,-,0.93,3,,,0,0,3,0,0,0,0
+Respiratory Therapy Technicians,-,-,1.04,3,,,0,0,3,0,0,0,0
+Retail Loss Prevention Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Retail Salespersons,-1.55,-,-,1,,,1,0,0,0,0,0,0
+Riggers,-,1.44,-,2,,,0,2,0,0,0,0,0
+Risk Management Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Robotics Engineers,-,-,1.54,3,,,0,0,3,0,0,0,0
+Robotics Technicians,-,1.03,1.49,2-3,,,0,0,0,0,0,6,0
+"Rock Splitters, Quarry",-1.05,1.32,-,1-2,,,0,0,0,4,0,0,0
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",-,1.23,-,2,,,0,2,0,0,0,0,0
+"Roof Bolters, Mining",-,2.10,-,2,,,0,2,0,0,0,0,0
+Roofers,-0.97,1.64,-,1-2,,,0,0,0,4,0,0,0
+"Rotary Drill Operators, Oil and Gas",-,1.97,-,2,,,0,2,0,0,0,0,0
+Rough Carpenters,-,1.27,-,2,,,0,2,0,0,0,0,0
+"Roustabouts, Oil and Gas",-1.11,1.65,-,1-2,,,0,0,0,4,0,0,0
+Sailors and Marine Oilers,-,1.68,-,2,,,0,2,0,0,0,0,0
+"Sales Agents, Financial Services",-,-,-,`,,,0,0,0,0,0,0,0
+"Sales Agents, Securities and Commodities",-,-,-,`,,,0,0,0,0,0,0,0
+Sales Engineers,-,-,1.06,3,,,0,0,3,0,0,0,0
+Sales Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",-,-,-,`,,,0,0,0,0,0,0,0
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",-,-,-,`,,,0,0,0,0,0,0,0
+"Sawing Machine Setters, Operators, and Tenders, Wood",-0.89,1.44,-,1-2,,,0,0,0,4,0,0,0
+School Psychologists,-,-,-,`,,,0,0,0,0,0,0,0
+Search Marketing Strategists,-,-,-,`,,,0,0,0,0,0,0,0
+"Secondary School Teachers, Except Special and Career/Technical Education",-,-,-,`,,,0,0,0,0,0,0,0
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",-0.90,-,-,1,,,1,0,0,0,0,0,0
+Securities and Commodities Traders,-,-,-,`,,,0,0,0,0,0,0,0
+Security and Fire Alarm Systems Installers,-,-,-,`,,,0,0,0,0,0,0,0
+Security Guards,-1.49,-,-,1,,,1,0,0,0,0,0,0
+Security Management Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Security Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Segmental Pavers,-1.11,-,-,1,,,1,0,0,0,0,0,0
+Self-Enrichment Education Teachers,-1.01,-,-,1,,,1,0,0,0,0,0,0
+Semiconductor Processors,-,-,-,`,,,0,0,0,0,0,0,0
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",-,1.10,-,2,,,0,2,0,0,0,0,0
+Septic Tank Servicers and Sewer Pipe Cleaners,-,1.32,-,2,,,0,2,0,0,0,0,0
+"Service Unit Operators, Oil, Gas, and Mining",-,2.02,-,2,,,0,2,0,0,0,0,0
+Set and Exhibit Designers,-,-,0.92,3,,,0,0,3,0,0,0,0
+"Sewers, Hand",-0.94,-,2.39,1-3,,,0,0,0,0,5,0,0
+Sewing Machine Operators,-1.32,-,0.79,1-3,,,0,0,0,0,5,0,0
+Shampooers,-2.25,-,-,1,,,1,0,0,0,0,0,0
+Sheet Metal Workers,-,-,-,`,,,0,0,0,0,0,0,0
+Sheriffs and Deputy Sheriffs,-,1.26,-,2,,,0,2,0,0,0,0,0
+Ship and Boat Captains,-,1.21,-,2,,,0,2,0,0,0,0,0
+Ship Engineers,-,1.97,-,2,,,0,2,0,0,0,0,0
+"Shipping, Receiving, and Traffic Clerks",-1.14,-,-,1,,,1,0,0,0,0,0,0
+Shoe and Leather Workers and Repairers,-1.52,-,-,1,,,1,0,0,0,0,0,0
+Shoe Machine Operators and Tenders,-0.93,-,-,1,,,1,0,0,0,0,0,0
+Signal and Track Switch Repairers,-,1.67,-,2,,,0,2,0,0,0,0,0
+Singers,-2.12,-,-,1,,,1,0,0,0,0,0,0
+Skincare Specialists,-1.24,-,2.02,1-3,,,0,0,0,0,5,0,0
+Slaughterers and Meat Packers,-2.12,-,-,1,,,1,0,0,0,0,0,0
+Slot Supervisors,-1.34,-,0.79,1-3,,,0,0,0,0,5,0,0
+Social and Community Service Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Social and Human Service Assistants,-,-,-,`,,,0,0,0,0,0,0,0
+Social Science Research Assistants,-,-,-,`,,,0,0,0,0,0,0,0
+"Social Work Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Sociologists,-,-,-,`,,,0,0,0,0,0,0,0
+"Sociology Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+"Software Developers, Applications",-,-,-,`,,,0,0,0,0,0,0,0
+"Software Developers, Systems Software",-,-,-,`,,,0,0,0,0,0,0,0
+Software Quality Assurance Engineers and Testers,-,-,-,`,,,0,0,0,0,0,0,0
+Soil and Plant Scientists,-,-,-,`,,,0,0,0,0,0,0,0
+Soil and Water Conservationists,-,-,-,`,,,0,0,0,0,0,0,0
+Solar Energy Installation Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Solar Energy Systems Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Solar Photovoltaic Installers,-,-,-,`,,,0,0,0,0,0,0,0
+Solar Sales Representatives and Assessors,-,-,-,`,,,0,0,0,0,0,0,0
+Solar Thermal Installers and Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Solderers and Brazers,-1.55,-,-,1,,,1,0,0,0,0,0,0
+Sound Engineering Technicians,-,-,1.73,3,,,0,0,3,0,0,0,0
+Spa Managers,-,-,-,`,,,0,0,0,0,0,0,0
+"Special Education Teachers, Kindergarten and Elementary School",-,-,-,`,,,0,0,0,0,0,0,0
+"Special Education Teachers, Middle School",-,-,-,`,,,0,0,0,0,0,0,0
+"Special Education Teachers, Secondary School",-,-,-,`,,,0,0,0,0,0,0,0
+Speech-Language Pathologists,-,-,-,`,,,0,0,0,0,0,0,0
+Speech-Language Pathology Assistants,-,-,-,`,,,0,0,0,0,0,0,0
+Sports Medicine Physicians,-,-,1.58,3,,,0,0,3,0,0,0,0
+Statement Clerks,-0.89,-,-,1,,,1,0,0,0,0,0,0
+Stationary Engineers and Boiler Operators,-,1.70,-,2,,,0,2,0,0,0,0,0
+Statistical Assistants,-,-,-,`,,,0,0,0,0,0,0,0
+Statisticians,-,-,-,`,,,0,0,0,0,0,0,0
+"Stock Clerks- Stockroom, Warehouse, or Storage Yard",-1.76,-,-,1,,,1,0,0,0,0,0,0
+"Stock Clerks, Sales Floor",-1.74,-,-,1,,,1,0,0,0,0,0,0
+"Stone Cutters and Carvers, Manufacturing",-0.97,1.25,1.06,1-2-3,,,0,0,0,0,0,0,7
+Stonemasons,-,-,-,`,,,0,0,0,0,0,0,0
+Storage and Distribution Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Structural Iron and Steel Workers,-,1.92,-,2,,,0,2,0,0,0,0,0
+Structural Metal Fabricators and Fitters,-0.86,-,-,1,,,1,0,0,0,0,0,0
+Substance Abuse and Behavioral Disorder Counselors,-,-,-,`,,,0,0,0,0,0,0,0
+Subway and Streetcar Operators,-,-,-,`,,,0,0,0,0,0,0,0
+Supply Chain Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Surgeons,-,-,2.81,3,,,0,0,3,0,0,0,0
+Surgical Assistants,-,-,2.02,3,,,0,0,3,0,0,0,0
+Surgical Technologists,-,-,0.76,3,,,0,0,3,0,0,0,0
+Survey Researchers,-,-,-,0,,,0,0,0,0,0,0,0
+Surveying Technicians,-,-,-,0,,,0,0,0,0,0,0,0
+Surveyors,-,-,-,0,,,0,0,0,0,0,0,0
+Sustainability Specialists,-,-,-,0,,,0,0,0,0,0,0,0
+"Switchboard Operators, Including Answering Service",-1.49,-,0.84,1-3,,,0,0,0,0,5,0,0
+"Tailors, Dressmakers, and Custom Sewers",-1.09,-,1.56,1-3,,,0,0,0,0,5,0,0
+Talent Directors,-,-,-,`,,,0,0,0,0,0,0,0
+"Tank Car, Truck, and Ship Loaders",-,1.79,-,2,,,0,2,0,0,0,0,0
+Tapers,-1.83,-,-,1,,,1,0,0,0,0,0,0
+"Tax Examiners and Collectors, and Revenue Agents",-,-,0.84,3,,,0,0,3,0,0,0,0
+Tax Preparers,-,-,-,`,,,0,0,0,0,0,0,0
+Taxi Drivers and Chauffeurs,-1.10,-,-,1,,,1,0,0,0,0,0,0
+Teacher Assistants,-1.17,-,-,1,,,1,0,0,0,0,0,0
+Team Assemblers,-,-,1.44,3,,,0,0,3,0,0,0,0
+Technical Directors/Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Technical Writers,-,-,-,`,,,0,0,0,0,0,0,0
+Telecommunications Engineering Specialists,-,-,0.75,3,,,0,0,3,0,0,0,0
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",-,1.17,1.19,2-3,,,0,0,0,0,0,6,0
+Telecommunications Line Installers and Repairers,-,1.42,-,2,,,0,2,0,0,0,0,0
+Telemarketers,-2.23,-,-,1,,,1,0,0,0,0,0,0
+Telephone Operators,-1.43,-,1.32,1-3,,,0,0,0,0,5,0,0
+Tellers,-1.17,-,1.24,1-3,,,0,0,0,0,5,0,0
+Terrazzo Workers and Finishers,-1.57,1.04,-,1-2,,,0,0,0,4,0,0,0
+Textile Bleaching and Dyeing Machine Operators and Tenders,-0.98,-,-,1,,,1,0,0,0,0,0,0
+"Textile Cutting Machine Setters, Operators, and Tenders",-0.94,-,-,1,,,1,0,0,0,0,0,0
+"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",-1.25,-,-,1,,,1,0,0,0,0,0,0
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",-1.20,-,-,1,,,1,0,0,0,0,0,0
+Tile and Marble Setters,-,-,-,`,,,0,0,0,0,0,0,0
+Timing Device Assemblers and Adjusters,-,-,0.98,3,,,0,0,3,0,0,0,0
+Tire Builders,-0.98,1.25,-,1-2,,,0,0,0,4,0,0,0
+Tire Repairers and Changers,-,1.32,-,2,,,0,2,0,0,0,0,0
+"Title Examiners, Abstractors, and Searchers",-,-,-,`,,,0,0,0,0,0,0,0
+Tool and Die Makers,-,1.19,-,2,,,0,2,0,0,0,0,0
+"Tool Grinders, Filers, and Sharpeners",-,-,1.11,3,,,0,0,3,0,0,0,0
+Tour Guides and Escorts,-1.61,-,-,1,,,1,0,0,0,0,0,0
+Traffic Technicians,-,-,-,`,,,0,0,0,0,0,0,0
+Training and Development Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Training and Development Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Transit and Railroad Police,-,1.62,-,2,,,0,2,0,0,0,0,0
+"Transportation Attendants, Except Flight Attendants",-1.56,-,-,1,,,1,0,0,0,0,0,0
+Transportation Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Transportation Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Transportation Planners,-,-,-,`,,,0,0,0,0,0,0,0
+Transportation Security Screeners,-1.13,-,-,1,,,1,0,0,0,0,0,0
+"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",-,-,-,`,,,0,0,0,0,0,0,0
+Travel Agents,-,-,-,`,,,0,0,0,0,0,0,0
+Travel Guides,-1.19,-,-,1,,,1,0,0,0,0,0,0
+Treasurers and Controllers,-,-,-,0,,,0,0,0,0,0,0,0
+Tree Trimmers and Pruners,-,1.60,-,2,,,0,2,0,0,0,0,0
+Tutors,-,-,-,`,,,0,0,0,0,0,0,0
+"Umpires, Referees, and Other Sports Officials",-1.09,-,-,1,,,1,0,0,0,0,0,0
+Upholsterers,-,-,2.01,3,,,0,0,3,0,0,0,0
+Urban and Regional Planners,-,-,-,`,,,0,0,0,0,0,0,0
+Urologists,-,-,1.30,3,,,0,0,3,0,0,0,0
+"Ushers, Lobby Attendants, and Ticket Takers",-2.24,-,-,1,,,1,0,0,0,0,0,0
+Validation Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Veterinarians,-,-,1.43,3,,,0,0,3,0,0,0,0
+Veterinary Assistants and Laboratory Animal Caretakers,-,-,-,`,,,0,0,0,0,0,0,0
+Veterinary Technologists and Technicians,-,-,1.76,3,,,0,0,3,0,0,0,0
+Video Game Designers,-,-,1.40,3,,,0,0,3,0,0,0,0
+"Vocational Education Teachers, Postsecondary",-,-,-,`,,,0,0,0,0,0,0,0
+Waiters and Waitresses,-1.82,-,-,1,,,1,0,0,0,0,0,0
+Watch Repairers,-,-,1.47,3,,,0,0,3,0,0,0,0
+Water and Wastewater Treatment Plant and System Operators,-,1.41,-,2,,,0,2,0,0,0,0,0
+Water Resource Specialists,-,-,-,`,,,0,0,0,0,0,0,0
+Water/Wastewater Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Weatherization Installers and Technicians,-,1.23,-,2,,,0,2,0,0,0,0,0
+Web Administrators,-,-,-,0,,,0,0,0,0,0,0,0
+Web Developers,-,-,0.99,3,,,0,0,3,0,0,0,0
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",-,-,-,`,,,0,0,0,0,0,0,0
+"Welders, Cutters, and Welder Fitters",-,1.32,-,2,,,0,2,0,0,0,0,0
+"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",-,1.16,-,2,,,0,2,0,0,0,0,0
+Wellhead Pumpers,-,1.66,-,2,,,0,2,0,0,0,0,0
+"Wholesale and Retail Buyers, Except Farm Products",-,-,-,`,,,0,0,0,0,0,0,0
+Wind Energy Engineers,-,-,-,`,,,0,0,0,0,0,0,0
+Wind Energy Operations Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Wind Energy Project Managers,-,-,-,`,,,0,0,0,0,0,0,0
+Wind Turbine Service Technicians,-,1.66,-,2,,,0,2,0,0,0,0,0
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",-,1.22,-,2,,,0,2,0,0,0,0,0
+Word Processors and Typists,-1.61,-,0.80,1-3,,,0,0,0,0,5,0,0
+Zoologists and Wildlife Biologists,-,-,-,`,,,0,0,0,0,0,0,0
+,,,,,,,129,296,435,116,170,96,7
+,,,,,,,130,148,145,29,34,16,1
+,,,,,,,1,2,3,1-2,1-3,2-3,
+,,,,,,,,,,,,,
+Type,Number,,,Total vulnerable jobs,,,503,,,,,,
+1,130,,,,,,,,,,,,
+2,148,,,,,,,,,,,,
+3,145,,,,,,,,,,,,
+1-2,29,,,,,,,,,,,,
+1-3,34,,,,,,,,,,,,
+2-3,16,,,,,,,,,,,,
+1-2-3,1,,,,,,,,,,,,
+,503,,,,,,,,,,,,
