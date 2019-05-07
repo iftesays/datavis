@@ -1,0 +1,19 @@
+,,,,
+Cluster,Medoid,SOC,Attributes,Comment
+1,"Financial Managers, Branch or Department",11-3031.02,"High level of Factor 1, 2 and 7.",-
+,,,Low level of Factor 3,
+2,Program Directors,27-2012.03,"High level of factor 2, 5, and 7.",-
+,,,"Low level factor 3, 6",
+3,Tool and Die Makers,51-4111.00,Very High level Factor 3.,Vulnerable
+,,,"Low level Factor 1, 2, 5.",
+,,,Moderate level Factor 6.,
+4,Electrical Engineers,        17-2071.00,"Very high level of Factor 1, 5.",-
+,,,"Low to moderate level of Factor  2, 6",
+5,"Education Teachers, Postsecondary",        25-1081.00,"High level of Factor 1, 2, 4, 5.",-
+,,,"Low level of Factor 3, 6",
+6,Word Processors and Typists,        43-9022.00,"Very low level of Factor 1, 2, 4, 5.",Vulnerable
+,,,High level of Factor 6,
+7,Segmental Pavers,47-4091.00,"Very low level of Factor 1, 2, 5, 6.",Vulnerable
+,,,High level of Factor 3.,
+8,Diagnostic Medical Sonographers,29-2032.00,"Moderate to high level of Factor 1, 2, 4, 5.",-
+,,,Low level of Factor 3.,
